@@ -20,3 +20,10 @@ body {
 table, th, td {
     border: solid black 1px;
 }
+
+.red {
+    background-color: rgb(230, 89, 64);
+    color: white;
+    border: solid white 1px;
+    border-radius: 10px;
+}
