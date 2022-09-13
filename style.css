@@ -26,4 +26,5 @@ table, th, td {
     color: white;
     border: solid white 1px;
     border-radius: 10px;
+    max-width: 20%;
 }
